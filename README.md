@@ -1,4 +1,4 @@
-# Starlight Starter Kit: Basics
+# Latah GOP Caucus 2024 Website
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
