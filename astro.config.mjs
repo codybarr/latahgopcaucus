@@ -6,6 +6,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Latah GOP Caucus Information',
+      favicon: '/gop.png',
       head: [
         {
           tag: 'meta',
